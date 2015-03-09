@@ -21,7 +21,7 @@ public class learn {
         int two = myAList.indexOf("two");
         System.out.println("two is " + (two+1) + " of " + myAList.size());
 
-        
+
 
     }
 }
